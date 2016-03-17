@@ -15,7 +15,7 @@
   border-right: white solid 1px;
   border-top: white solid 1px; }
 
-header {
+.header {
   background: #990000;
   background: -moz-linear-gradient(top, #990000 0%, #993434 100%);
   background: -webkit-linear-gradient(top, #990000 0%, #993434 100%);
