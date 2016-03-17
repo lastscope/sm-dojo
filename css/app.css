@@ -20,6 +20,7 @@ header {
   background: -moz-linear-gradient(top, #004799 0%, #346399 100%);
   background: -webkit-linear-gradient(top, #004799 0%, #346399 100%);
   background: linear-gradient(to bottom, #004799 0%, #346399 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#004799', endColorstr='#346399',GradientType=0 ); }
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#004799', endColorstr='#346399',GradientType=0 );
+  color: white; }
 
 /*# sourceMappingURL=app.css.map */
